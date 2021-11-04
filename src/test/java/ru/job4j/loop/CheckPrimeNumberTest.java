@@ -23,7 +23,6 @@ public class CheckPrimeNumberTest {
         int number = 1;
         boolean result = CheckPrimeNumber.check(number);
         Assert.assertFalse(result);
-
     }
 
 }
