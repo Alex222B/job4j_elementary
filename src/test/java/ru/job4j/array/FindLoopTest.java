@@ -12,7 +12,8 @@ public class FindLoopTest {
     int result = FindLoop.indexOf(data, el);
     int expected = 0;
     Assert.assertEquals(expected, result);
-}
+    }
+
     @Test
     public void whenArrayHas33Then4() {
         int[] data = {5, 4, 3, 2, 33, 45};
