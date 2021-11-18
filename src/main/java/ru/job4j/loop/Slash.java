@@ -15,7 +15,6 @@ public class Slash {
                 }
             }
             System.out.println();
-
         }
         System.out.println();
     }

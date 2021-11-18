@@ -2,8 +2,8 @@ package ru.job4j;
 
 public class Calculator {
     public static void plus(int first, int second) {
-        int result = first + second;
-        System.out.println(result);
+        int rsl = first + second;
+        System.out.println(rsl);
     }
 
     public static void main(String[] args) {
