@@ -7,7 +7,6 @@ public class StringRunner {
         idea += " But I am a newbie. ";
         int year = 2022;
         idea += year;
-
         System.out.println(idea);
     }
 }
